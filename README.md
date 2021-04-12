@@ -2,7 +2,7 @@
 时不时蹦出来的想法和项目，异想天开
 
 ### 1. 脸识APP
-    人脸识别的社交软件，[link](https://github.com/zhaohe0220/face-meet)
+    人脸识别的社交软件，[repo](https://github.com/zhaohe0220/face-meet)
 ### 2. 商品价格波动展示
     商品分类下有具体商品、不同平台有不同价格，对比，波动展示，预测双十一价格是高还是低
 ### 3. 心愿单
